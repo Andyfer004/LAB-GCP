@@ -1,0 +1,6 @@
+project_id       = "YOUR_PROJECT_ID"
+region           = "us-central1"
+function_name    = "orders-api"
+failure_rate     = 0.02
+extra_latency_ms = 0
+student_members  = []

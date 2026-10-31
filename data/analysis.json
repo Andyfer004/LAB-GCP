@@ -1,0 +1,100 @@
+{
+  "groups": [
+    {
+      "category": "electronics",
+      "window": "outside_35-45",
+      "requests": 1531,
+      "client_errors": 135,
+      "server_errors": 28,
+      "intended_invalid": 138,
+      "status_counts": {
+        "200": 893,
+        "201": 475,
+        "400": 49,
+        "409": 44,
+        "500": 28,
+        "404": 42
+      }
+    },
+    {
+      "category": "electronics",
+      "window": "35-45",
+      "requests": 457,
+      "client_errors": 69,
+      "server_errors": 8,
+      "intended_invalid": 69,
+      "status_counts": {
+        "200": 256,
+        "201": 124,
+        "404": 24,
+        "409": 20,
+        "400": 25,
+        "500": 8
+      }
+    },
+    {
+      "category": "books",
+      "window": "outside_35-45",
+      "requests": 1527,
+      "client_errors": 120,
+      "server_errors": 31,
+      "intended_invalid": 121,
+      "status_counts": {
+        "201": 494,
+        "200": 882,
+        "409": 45,
+        "500": 31,
+        "400": 37,
+        "404": 38
+      }
+    },
+    {
+      "category": "books",
+      "window": "35-45",
+      "requests": 480,
+      "client_errors": 28,
+      "server_errors": 17,
+      "intended_invalid": 29,
+      "status_counts": {
+        "200": 289,
+        "500": 17,
+        "201": 146,
+        "409": 10,
+        "404": 7,
+        "400": 11
+      }
+    },
+    {
+      "category": "clothing",
+      "window": "outside_35-45",
+      "requests": 1529,
+      "client_errors": 113,
+      "server_errors": 31,
+      "intended_invalid": 115,
+      "status_counts": {
+        "200": 888,
+        "201": 497,
+        "500": 31,
+        "400": 34,
+        "409": 46,
+        "404": 33
+      }
+    },
+    {
+      "category": "clothing",
+      "window": "35-45",
+      "requests": 476,
+      "client_errors": 32,
+      "server_errors": 7,
+      "intended_invalid": 32,
+      "status_counts": {
+        "201": 138,
+        "200": 299,
+        "404": 10,
+        "409": 8,
+        "500": 7,
+        "400": 14
+      }
+    }
+  ]
+}

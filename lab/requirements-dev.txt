@@ -1,0 +1,3 @@
+-r backend/requirements.txt
+-r simulator/requirements.txt
+pytest>=8,<10

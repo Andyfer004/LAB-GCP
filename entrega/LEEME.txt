@@ -1,0 +1,5 @@
+ENTREGA PARA PUBLICACION
+
+Reporte en primera persona, dashboard HTML sin conexion, CSV anonimizado y capturas de los paneles. Las mediciones se conservaron; las referencias de solicitudes son anonimas. No se incluyen configuraciones reales, identificadores de infraestructura ni credenciales.
+
+El HTML complementa el dashboard de Cloud Monitoring. Antes de limpiar los recursos, conserva las evidencias.
